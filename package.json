@@ -1,6 +1,6 @@
 {
-  "name": "cky-luna-calendar",
-  "version": "1.0.1",
+  "name": "cky-lunar-calendar",
+  "version": "1.0.2",
   "description": "convert luna and solar calendar with timezone",
   "main": "index.js",
   "scripts": {

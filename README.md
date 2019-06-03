@@ -16,7 +16,7 @@ This package use lib of Ho Ngoc Duc, convert a date to lunar date with timezone 
 ### Installation
 
 ```sh
-$ npm install cky-lunar-calendar
+$ npm install cky-lunar-calendar --save
 ```
 ### function
 * **solar2Lunar *(date, month, yeaer, timezone)***
