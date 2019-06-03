@@ -1,0 +1,23 @@
+{
+  "name": "cky-luna-calendar",
+  "version": "1.0.0",
+  "description": "convert luna and solar calendar with timezone",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/Chickyky/cky-luna-calendar.git"
+  },
+  "keywords": [
+    "luna",
+    "calendar"
+  ],
+  "author": "Chickyky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/Chickyky/cky-luna-calendar/issues"
+  },
+  "homepage": "https://gitlab.com/Chickyky/cky-luna-calendar#readme"
+}
